@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    S3_BUCKET: "kalimabucket"
+    S3_BUCKET: "serverless-scopa-test"
     PACKAGE: "github.com/Kalimaha/retrieve-potatoes"
 
 phases:
